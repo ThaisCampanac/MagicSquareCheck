@@ -1,0 +1,5 @@
+﻿  MagicSquareSolution.cpp
+c:\users\17133\desktop\magicsquaresolution\magicsquaresolution.cpp(187): warning C4018: '>': signed/unsigned mismatch
+c:\users\17133\desktop\magicsquaresolution\magicsquaresolution.cpp(192): warning C4018: '<=': signed/unsigned mismatch
+c:\users\17133\desktop\magicsquaresolution\magicsquaresolution.cpp(200): warning C4018: '<': signed/unsigned mismatch
+  MagicSquareSolution.vcxproj -> C:\Users\17133\Desktop\MagicSquareSolution\Debug\MagicSquareSolution.exe
